@@ -8,7 +8,7 @@ $ cd /Users/user/my_project
 $ git clone https://github.com/TarokhDev2020/Covid-19-for-SwiftUI.git
 ```
 * Get your api key from [NewsApi](https://newsapi.org/)
-* Go to GlobalApi.swift and replace your api key
+* Go to Network.swift and replace your api key
 
 ## Design Pattern ##
 * MVVM
