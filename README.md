@@ -1,6 +1,10 @@
 # Covid-19-for-SwiftUI
 Track and get the latest news about covid-19 pandemic such as how many people recovered or died
 
+## Features
+* Show the stats of each country such as how many people got covid-19, recovered or died
+* Show the nearest hospitals around you
+
 ## Installation ##
 * Git and clone <br/>
 ```bash
